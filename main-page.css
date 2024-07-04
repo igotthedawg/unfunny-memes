@@ -1,0 +1,9 @@
+body{
+    text-align: center;
+    color: white;
+    background-color: black;
+}
+
+.clickable-link{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
